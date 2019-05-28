@@ -1,5 +1,5 @@
 {
-  "name": "suiXz/flysystem-curlftp",
+  "name": "suixz/flysystem-curlftp",
   "description": "Flysystem Adapter for the FTP with cURL implementation",
   "type": "library",
   "license": "MIT",
